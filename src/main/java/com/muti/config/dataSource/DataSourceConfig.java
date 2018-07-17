@@ -1,4 +1,4 @@
-package com.muti.config;
+package com.muti.config.dataSource;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.jdbc.DataSourceBuilder;
