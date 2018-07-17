@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Desciption
+ * Desciption 控制器增强器
  * Create By  li.bo
  * CreateTime 2018/7/17 15:34
  * UpdateTime 2018/7/17 15:34
